@@ -8,7 +8,7 @@ Install
 -------
 
     # Gemfile
-    gem 'taskiq', :git => 'git://github.com/matteodepalo/taskiq.git'
+    gem 'taskiq', '0.1.1'
 
  
     # Rakefile (at the end)
